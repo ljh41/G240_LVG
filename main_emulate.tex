@@ -1,0 +1,38 @@
+\documentclass[iop,apj,tighten]{emulateapj}
+%\pdfoutput=1 %for arxiv submission to use pdf
+\usepackage{apjfonts} %If missing fonts, comment out this or google apjfonts to download
+\usepackage{amsmath,amstext}
+\usepackage[breaklinks,colorlinks,citecolor=blue,linkcolor=magenta]{hyperref} 
+\usepackage[all]{hypcap} %Links go to figures. This breaks deluxetables; use \capstartfalse \capstarttrue around deluxetables to fix it.
+
+\renewcommand*{\sectionautorefname}{Section} %for \autoref
+\renewcommand*{\subsectionautorefname}{Section} %for \autoref
+
+\shorttitle{Short Title}
+\shortauthors{Author et al.}
+
+\begin{document}
+
+\title{Template for the Astrophysical Journal with emulateapj}
+\author{Authors\altaffilmark{1}}
+\affil{$^1$Affiliations}
+
+\begin{abstract}
+Abstract.
+\end{abstract}
+
+\keywords{keywords}
+\maketitle
+
+\section{Introduction}
+
+\section{Summary}
+
+\acknowledgments{
+  Acknowledgments. 
+}
+
+\bibliographystyle{yahapj}
+%\bibliography{}
+
+\end{document}

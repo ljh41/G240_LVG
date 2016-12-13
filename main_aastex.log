@@ -1,0 +1,256 @@
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.1.27)  13 DEC 2016 21:12
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main_aastex.tex
+(./main_aastex.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/aastex/aastex.cls
+Document Class: aastex 2005/06/22 5.2/AAS markup document class
+Class aastex Info: Original \LaTeX2.09 style by Chris Biemesderfer (chris@seago
+at.com). Adapted to \LaTeXe by A. Ogawa (ogawa@teleport.com) on input line 83.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: xetex.def on input line 94.
+
+(/usr/local/texlive/2015/texmf-dist/tex/xelatex/xetex-def/xetex.def
+File: xetex.def 2015/03/25 v4.04 LaTeX color/graphics driver for XeTeX (TeX Liv
+e/RRM/JK)
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count87
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks16
+\verbatim@line=\toks17
+\verbatim@in@stream=\read1
+)
+\@slugcmmntwidth=\dimen105
+\abstract@box=\box26
+\c@editornote=\count88
+\c@cureqno=\count89
+\tnotemarkskip=\skip45
+\@abovenoteskip=\dimen106
+\pt@box=\box27
+\pt@width=\dimen107
+\pt@line=\count90
+\pt@column=\count91
+\pt@nlines=\count92
+\pt@ncol=\count93
+\pt@page=\count94
+\tabbaseskip=\dimen108
+\pt@tmpcapwidth=\dimen109
+\spew@tblnotesbox=\box28
+\restof@tblnotesbox=\box29
+\noteheight=\dimen110
+\pt@tabnoteminht=\dimen111
+\firsttabskip=\dimen112
+\captionbox=\box30
+\pt@reduceline=\dimen113
+\extra@vspace=\dimen114
+\c@plate=\count95
+\my@footins=\box31
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip46
+\subfigcapskip=\skip47
+\subfigcaptopadj=\dimen115
+\subfigbottomskip=\skip48
+\subfigcapmargin=\dimen116
+\subfiglabelskip=\skip49
+\c@subfigure=\count96
+\c@lofdepth=\count97
+\c@subtable=\count98
+\c@lotdepth=\count99
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/local/texlive/2015/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip50
+\subfig@bottom=\skip51
+)
+(./main_aastex.aux)
+\openout1 = `main_aastex.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+
+AAS 2-column preprint substyle, v5.2 <12 Dec 2003>.
+(./introduction.tex
+Underfull \hbox (badness 3439) in paragraph at lines 2--3
+[]\OT1/cmr/m/n/10 Bipolar molec-u-lar out-flows are ubiq-ui-tous
+ []
+
+LaTeX Font Info:    Try loading font information for U+lasy on input line 4.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 4.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 4.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+
+])
+(./observation.tex
+Missing character: There is no − in font cmr10!
+Missing character: There is no − in font cmr10!
+Missing character: There is no − in font cmr10!
+Missing character: There is no × in font cmr10!
+Missing character: There is no ± in font cmr10!
+
+Underfull \hbox (badness 1769) in paragraph at lines 2--6
+[]\OT1/cmr/m/n/10 The Sub-mil-lime-ter Ar-ray[] (SMA) ob-ser-va-
+ []
+
+
+Underfull \hbox (badness 1400) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 tions were car-ried out on 2008 Febru-ary 25
+ []
+
+
+Underfull \hbox (badness 3291) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 = (07$[]$44$[]$52$[]$.49, 24$[]$07$[]$52$[]$.1) and (R.A.,
+ []
+
+) (./results.tex
+File: ./fig/ori_contour.eps Graphic file (type eps)
+ <./fig/ori_contour.eps>
+Overfull \hbox (50.59428pt too wide) in paragraph at lines 5--6
+[][] 
+ []
+
+[2] [3]
+Plotone included the file ./fig/ratio.eps
+File: ./fig/ratio.eps Graphic file (type eps)
+<./fig/ratio.eps>
+Underfull \hbox (badness 1817) in paragraph at lines 20--20
+[]\OT1/cmr/bx/n/10 PHYSICAL PROP-ERTY ANAL-Y-
+ []
+
+[4]
+File: ./fig/chiimage_nco_paper.eps Graphic file (type eps)
+ <./fig/chiimage_nco_paper.eps>
+File: ./fig/chiimage_nh2_paper.eps Graphic file (type eps)
+ <./fig/chiimage_nh2_paper.eps>
+File: ./fig/chiimage_tkin_paper.eps Graphic file (type eps)
+
+<./fig/chiimage_tkin_paper.eps>
+Overfull \hbox (24.73415pt too wide) in paragraph at lines 40--53
+ [][] 
+ []
+
+
+Overfull \hbox (24.73415pt too wide) in paragraph at lines 40--53
+ [] 
+ []
+
+
+Overfull \hbox (24.73415pt too wide) in paragraph at lines 40--53
+ [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 98.5469pt on input line 54.
+
+File: ./fig/tv_paper.eps Graphic file (type eps)
+<./fig/tv_paper.eps>
+File: ./fig/Nv_paper.eps Graphic file (type eps)
+ <./fig/Nv_paper.eps>
+Overfull \hbox (24.73415pt too wide) in paragraph at lines 65--72
+ [][] 
+ []
+
+
+Overfull \hbox (24.73415pt too wide) in paragraph at lines 65--72
+ [] 
+ []
+
+[5]) (./discussion.tex [6]) (./summary.tex) [7] [8
+
+] (./main_aastex.aux) ) 
+Here is how much of TeX's memory you used:
+ 2140 strings out of 493706
+ 26923 string characters out of 6145769
+ 92596 words of memory out of 5000000
+ 5464 multiletter control sequences out of 15000+600000
+ 11477 words of font info for 47 fonts, out of 8000000 for 9000
+ 1328 hyphenation exceptions out of 8191
+ 32i,5n,28p,2831b,328s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on main_aastex.pdf (8 pages).
