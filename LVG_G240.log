@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.1.27)  13 DEC 2016 21:12
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.1.27)  25 DEC 2016 09:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**main_aastex.tex
-(./main_aastex.tex
+**LVG_G240.tex
+(./LVG_G240.tex
 LaTeX2e <2015/01/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/aastex/aastex.cls
@@ -128,8 +128,8 @@ Package: subfigure 2002/03/15 v2.1.5 subfigure package
 \subfig@top=\skip50
 \subfig@bottom=\skip51
 )
-(./main_aastex.aux)
-\openout1 = `main_aastex.aux'.
+(./LVG_G240.aux)
+\openout1 = `LVG_G240.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
@@ -145,50 +145,34 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
 
 AAS 2-column preprint substyle, v5.2 <12 Dec 2003>.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 17.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 17.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 17.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
 (./introduction.tex
 Underfull \hbox (badness 3439) in paragraph at lines 2--3
 []\OT1/cmr/m/n/10 Bipolar molec-u-lar out-flows are ubiq-ui-tous
  []
 
-LaTeX Font Info:    Try loading font information for U+lasy on input line 4.
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ulasy.fd
-File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
-)
-LaTeX Font Info:    Try loading font information for U+msa on input line 4.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 4.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
-
-
-])
-(./observation.tex
-Missing character: There is no − in font cmr10!
-Missing character: There is no − in font cmr10!
-Missing character: There is no − in font cmr10!
-Missing character: There is no × in font cmr10!
-Missing character: There is no ± in font cmr10!
-
-Underfull \hbox (badness 1769) in paragraph at lines 2--6
-[]\OT1/cmr/m/n/10 The Sub-mil-lime-ter Ar-ray[] (SMA) ob-ser-va-
+Underfull \hbox (badness 2884) in paragraph at lines 6--7
+\OT1/cmr/m/n/10 ob-ser-va-tions to-wards G240.31+0.07 (here-after
  []
 
-
-Underfull \hbox (badness 1400) in paragraph at lines 2--6
-\OT1/cmr/m/n/10 tions were car-ried out on 2008 Febru-ary 25
- []
+[1
 
 
-Underfull \hbox (badness 3291) in paragraph at lines 2--6
-\OT1/cmr/m/n/10 = (07$[]$44$[]$52$[]$.49, 24$[]$07$[]$52$[]$.1) and (R.A.,
- []
-
-) (./results.tex
+]) (./observation.tex) (./results.tex
 File: ./fig/ori_contour.eps Graphic file (type eps)
  <./fig/ori_contour.eps>
 Overfull \hbox (50.59428pt too wide) in paragraph at lines 5--6
@@ -199,58 +183,56 @@ Overfull \hbox (50.59428pt too wide) in paragraph at lines 5--6
 Plotone included the file ./fig/ratio.eps
 File: ./fig/ratio.eps Graphic file (type eps)
 <./fig/ratio.eps>
-Underfull \hbox (badness 1817) in paragraph at lines 20--20
+Underfull \hbox (badness 1817) in paragraph at lines 21--21
 []\OT1/cmr/bx/n/10 PHYSICAL PROP-ERTY ANAL-Y-
  []
 
-[4]
 File: ./fig/chiimage_nco_paper.eps Graphic file (type eps)
- <./fig/chiimage_nco_paper.eps>
+<./fig/chiimage_nco_paper.eps>
 File: ./fig/chiimage_nh2_paper.eps Graphic file (type eps)
  <./fig/chiimage_nh2_paper.eps>
 File: ./fig/chiimage_tkin_paper.eps Graphic file (type eps)
 
 <./fig/chiimage_tkin_paper.eps>
-Overfull \hbox (24.73415pt too wide) in paragraph at lines 40--53
+Overfull \hbox (24.73415pt too wide) in paragraph at lines 41--54
  [][] 
  []
 
 
-Overfull \hbox (24.73415pt too wide) in paragraph at lines 40--53
+Overfull \hbox (24.73415pt too wide) in paragraph at lines 41--54
  [] 
  []
 
 
-Overfull \hbox (24.73415pt too wide) in paragraph at lines 40--53
+Overfull \hbox (24.73415pt too wide) in paragraph at lines 41--54
  [] 
  []
 
 
-LaTeX Warning: Float too large for page by 98.5469pt on input line 54.
+LaTeX Warning: Float too large for page by 96.49144pt on input line 55.
 
+[4]
 File: ./fig/tv_paper.eps Graphic file (type eps)
-<./fig/tv_paper.eps>
+ <./fig/tv_paper.eps>
 File: ./fig/Nv_paper.eps Graphic file (type eps)
  <./fig/Nv_paper.eps>
-Overfull \hbox (24.73415pt too wide) in paragraph at lines 65--72
+Overfull \hbox (24.73415pt too wide) in paragraph at lines 66--73
  [][] 
  []
 
 
-Overfull \hbox (24.73415pt too wide) in paragraph at lines 65--72
+Overfull \hbox (24.73415pt too wide) in paragraph at lines 66--73
  [] 
  []
 
-[5]) (./discussion.tex [6]) (./summary.tex) [7] [8
-
-] (./main_aastex.aux) ) 
+) (./discussion.tex [5] [6]) (./summary.tex) [7] [8] (./LVG_G240.aux) ) 
 Here is how much of TeX's memory you used:
- 2140 strings out of 493706
- 26923 string characters out of 6145769
- 92596 words of memory out of 5000000
- 5464 multiletter control sequences out of 15000+600000
+ 2155 strings out of 493706
+ 27301 string characters out of 6145769
+ 90199 words of memory out of 5000000
+ 5479 multiletter control sequences out of 15000+600000
  11477 words of font info for 47 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 32i,5n,28p,2831b,328s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 32i,5n,28p,3029b,328s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main_aastex.pdf (8 pages).
+Output written on LVG_G240.pdf (8 pages).
