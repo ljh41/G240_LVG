@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.1.27)  28 DEC 2016 09:39
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.1.27)  28 DEC 2016 10:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -204,7 +204,7 @@ Overfull \hbox (24.73415pt too wide) in paragraph at lines 41--54
  []
 
 
-LaTeX Warning: Float too large for page by 96.49144pt on input line 55.
+LaTeX Warning: Float too large for page by 94.96292pt on input line 55.
 
 [4]
 File: ./fig/tv_paper.eps Graphic file (type eps)
