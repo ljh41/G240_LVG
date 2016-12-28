@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.1.27)  25 DEC 2016 09:46
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.1.27)  28 DEC 2016 09:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -164,11 +164,6 @@ Underfull \hbox (badness 3439) in paragraph at lines 2--3
 []\OT1/cmr/m/n/10 Bipolar molec-u-lar out-flows are ubiq-ui-tous
  []
 
-
-Underfull \hbox (badness 2884) in paragraph at lines 6--7
-\OT1/cmr/m/n/10 ob-ser-va-tions to-wards G240.31+0.07 (here-after
- []
-
 [1
 
 
@@ -229,10 +224,10 @@ Overfull \hbox (24.73415pt too wide) in paragraph at lines 66--73
 Here is how much of TeX's memory you used:
  2155 strings out of 493706
  27301 string characters out of 6145769
- 90199 words of memory out of 5000000
+ 90414 words of memory out of 5000000
  5479 multiletter control sequences out of 15000+600000
  11477 words of font info for 47 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 32i,5n,28p,3029b,328s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 32i,5n,28p,3028b,328s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on LVG_G240.pdf (8 pages).
