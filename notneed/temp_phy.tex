@@ -1,23 +1,4 @@
-\section{RESULTS}
-\subsection{CO EMISSIONS AND LINE RATIOS}
 
-\begin{figure*}[htbp]
-\includegraphics[scale=.60]{./fig/ori_contour.eps}
-\caption{(a)-(c) Low-velocity CO J = (3-2), (6-5), (7-6) emissions, integrated from $-11$ to $-6$ (blue) and $6$ to $11$ (red) km s$^{-1}$ ; (d)-(f) High-velocity CO J = (3-2), (6-5), (7-6) emissions,  integrated from $-21$ to $-11$ (blue) and $11$ to $21$ (red) km s$^{-1}$. All velocities are with respect to the v$_{\mathrm{cloud}}$. For (a)-(f), the contour levels start from 20\% and continue at steps of 10\% of the peak emission. The central stars mark the positions of the millimeter sources detected by \citet{2009ApJ...696...66Q}. The beam size is shown in the lower right corner of each panel.  \label{fig1}}
-\end{figure*}
-
-The cloud velocity (v$_{\mathrm{cloud}}$) with respect to the local standard of rest is about 67.5 km s$^{-1}$, which is adopted from \citet{2003A&A...412..175K}. Figure \ref{fig1} shows the integrated low-velocity (LV) and high-velocity (HV) emissions of CO J = (3-2), (6-5), (7-6). The outflow morphologies seen in three lines are very similar. For all transitions, a prominent bipolar outflow at (PA) $\sim$ 131${\degr}$ along with a weaker component at PA $\sim$ 101${\degr}$ is detected. The weaker component is at relatively lower velocities of $\pm$6 to $\pm$11 km s$^{-1}$, while the prominent component is detected at both low and high velocities. The signal-to-noise ratio in the CO (7-6) spectrum is not very high at high velocities. Overall, the CO maps presented in Figure \ref{fig1} are very similar to the CO (3-2) map presented by \citet{2003A&A...412..175K}. 
-
-To compare the emissions of different CO transitions, we convolved the CO (6-5) and (7-6) maps, as well as the CO (2-1) map from \citet{2009ApJ...696...66Q}, to the same spatial resolution of the CO (3-2), which is 19${\arcsec}$. To reduce the noise level in the spectra, we resampled the four CO lines to a resolution of 2 km s$^{-1}$. Then we measured ratios of the main beam temperature ($T_{\mathrm{mb}}$) of different CO lines toward the peak of the blueshifted and redshifted lobes (marked as two crosses in Figure \ref{fig1}). Figure \ref{fig2} shows the observed line wing ratios of different CO transitions.  All line ratios in Figure \ref{fig2} are remarkably constant with velocity.
-
-%not exhibits   no keep  appear
-%APEX 3 lines resolution  CO(2-1) qiu 2009
-\begin{figure}[tbp]
-\plotone{./fig/ratio.eps}
-\caption{Ratios of the $T_{\mathrm{mb}}$ of different CO lines at various velocities. Blue symbols denote the measurements from the blueshifted lobe, and red symbols the redshifted lobe. The $V_{\mathrm{outflow}}$ shown here is related to the $v_{\mathrm{cloud}}$ by the relation: $V_{\mathrm{outflow}}$ = $\mid$ $v_{\mathrm{outflow}}$ - $v_{\mathrm{cloud}}\mid$, where $v_{\mathrm{outflow}}$ is the outflow velocity with respect to the local standard of rest. \label{fig2}}
-\end{figure}
-
-\subsection{PHYSICAL PROPERTY ANALYSIS}
 We performed the LVG analysis with the radiative transfer code RADEX developed by \citet{2007A&A...468..627V}. The simulation constructs a large grid of non-LTE models with three parameters: gas density ($n_{\mathrm{H}_2}$), kinetic temperature ($T_{\mathrm{kin}}$), and the ratio between column density and line width ($N_{\mathrm{CO}}$/$\Delta V$). Considering the velocity resolution of our observations, we fix $\Delta V$ to 2 km s$^{-1}$. Each model gives the prediction of the brightness temperature ($T_\mathrm{b}$) of different CO transitions. Then we measured the main beam temperature ($T_{\mathrm{mb}}$) of four CO lines extracted at the peak position of the blue lobe and the red lobe (marked as two crosses in Figure \ref{fig1}). So we could compare the simulated $T_\mathrm{b}$ with our measured $T_{\mathrm{mb}}$, as $T_{\mathrm{mb}}$ is related to $T_\mathrm{b}$ by the relation:
 \begin{equation}
 T_{\mathrm{mb}} = \frac{\Omega_{\mathrm{s}}^2}{\Omega_{\mathrm{s}}^2+\Omega_{\mathrm{mb}}^2}\times T_\mathrm{b} = f_{\mathrm{b}} \times T_\mathrm{b},
@@ -75,7 +56,3 @@ In Figure \ref{fig3}, we show cuts in the $\chi_{\mathrm{red}}^2$ along the [$T$
 We also performed a population diagram analysis with the assumptions of local thermal equilibrium (LTE) and low opacity, and derived the kinetic temperature of the outflow gas and the CO column density as a function of velocity \citep{1999ApJ...517..209G}. Figure \ref{fig4} shows the outflowing gas temperature and CO column density, estimated from the LVG analysiss and population diagram analysis, versus outflowing gas velocity. The $N$-$V$ diagram shows a clear decreasing trend of CO column density with outflow velocity, while the $T$-$V$ diagram shows that the gas temperature has no obvious dependence on gas velocity. Uncertainty of each parameter in the LVG analysis is derived from the 1$\sigma$ confidence region in the $N$-$T$-$n$ 3-dimensional space. The 1$\sigma$ temperature uncertainty of the LVG analysis is shown in Figure \ref{fig4a}, at velocities where all of the four lines are detected. The uncertainty of the CO column density is too small to be plotted, so we don't show it in Figure \ref{fig4b}. The lower limits of gas density ($n_{\mathrm{lower}}$) are around 10$^5$ cm$^{-3}$ at most velocities. At velocities where $\chi_{\mathrm{red}}^2 \ll 1$, $n_{\mathrm{lower}}$ could be as low as $3 \times 10^4$ cm$^{-3}$.
 
 To explore how the effect of beam dilution influence our results, we varied the beam filling factors from 0.2 to 1. Then we performed the LVG analysis again, and compared the simulated $T_\mathrm{b}$ with the corrected antenna temperatures ($T_{\mathrm{mb}}$ divided by a beam filling factor). We find that modelling with different beam filling factors mainly affect the $N$-$V$ diagram, with minor change in the $T$-$V$ diagram and density limits. This could be resulted from the degeneracies of the beam filling factor with CO column density in the optically thin case. 
-
-
-
-

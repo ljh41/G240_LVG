@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.1.27)  28 DEC 2016 10:34
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.1.27)  10 JAN 2017 15:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -159,75 +159,70 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 17.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-(./introduction.tex
-Underfull \hbox (badness 3439) in paragraph at lines 2--3
-[]\OT1/cmr/m/n/10 Bipolar molec-u-lar out-flows are ubiq-ui-tous
- []
-
-[1
+(./introduction.tex [1
 
 
 ]) (./observation.tex) (./results.tex
 File: ./fig/ori_contour.eps Graphic file (type eps)
- <./fig/ori_contour.eps>
+
+<./fig/ori_contour.eps>
 Overfull \hbox (50.59428pt too wide) in paragraph at lines 5--6
 [][] 
  []
 
-[2] [3]
 Plotone included the file ./fig/ratio.eps
 File: ./fig/ratio.eps Graphic file (type eps)
 <./fig/ratio.eps>
-Underfull \hbox (badness 1817) in paragraph at lines 21--21
+Underfull \hbox (badness 1817) in paragraph at lines 20--20
 []\OT1/cmr/bx/n/10 PHYSICAL PROP-ERTY ANAL-Y-
  []
 
+[2] [3]
 File: ./fig/chiimage_nco_paper.eps Graphic file (type eps)
-<./fig/chiimage_nco_paper.eps>
+ <./fig/chiimage_nco_paper.eps>
 File: ./fig/chiimage_nh2_paper.eps Graphic file (type eps)
  <./fig/chiimage_nh2_paper.eps>
 File: ./fig/chiimage_tkin_paper.eps Graphic file (type eps)
 
 <./fig/chiimage_tkin_paper.eps>
-Overfull \hbox (24.73415pt too wide) in paragraph at lines 41--54
+Overfull \hbox (24.73415pt too wide) in paragraph at lines 40--53
  [][] 
  []
 
 
-Overfull \hbox (24.73415pt too wide) in paragraph at lines 41--54
+Overfull \hbox (24.73415pt too wide) in paragraph at lines 40--53
  [] 
  []
 
 
-Overfull \hbox (24.73415pt too wide) in paragraph at lines 41--54
+Overfull \hbox (24.73415pt too wide) in paragraph at lines 40--53
  [] 
  []
 
 
-LaTeX Warning: Float too large for page by 94.96292pt on input line 55.
+LaTeX Warning: Float too large for page by 94.96292pt on input line 54.
 
-[4]
 File: ./fig/tv_paper.eps Graphic file (type eps)
- <./fig/tv_paper.eps>
+<./fig/tv_paper.eps>
 File: ./fig/Nv_paper.eps Graphic file (type eps)
  <./fig/Nv_paper.eps>
-Overfull \hbox (24.73415pt too wide) in paragraph at lines 66--73
+Overfull \hbox (24.73415pt too wide) in paragraph at lines 65--72
  [][] 
  []
 
 
-Overfull \hbox (24.73415pt too wide) in paragraph at lines 66--73
+Overfull \hbox (24.73415pt too wide) in paragraph at lines 65--72
  [] 
  []
 
-) (./discussion.tex [5] [6]) (./summary.tex) [7] [8] (./LVG_G240.aux) ) 
+[4] [5]) (./discussion.tex [6]) (./summary.tex) [7] [8] (./LVG_G240.aux) ) 
 Here is how much of TeX's memory you used:
  2155 strings out of 493706
  27301 string characters out of 6145769
- 90414 words of memory out of 5000000
+ 88307 words of memory out of 5000000
  5479 multiletter control sequences out of 15000+600000
  11477 words of font info for 47 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 32i,5n,28p,3028b,328s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 32i,5n,28p,3016b,328s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on LVG_G240.pdf (8 pages).
