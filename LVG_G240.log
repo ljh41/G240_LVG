@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.1.27)  10 JAN 2017 15:39
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.1.27)  12 JAN 2017 22:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -173,7 +173,7 @@ Overfull \hbox (50.59428pt too wide) in paragraph at lines 5--6
 Plotone included the file ./fig/ratio.eps
 File: ./fig/ratio.eps Graphic file (type eps)
 <./fig/ratio.eps>
-Underfull \hbox (badness 1817) in paragraph at lines 20--20
+Underfull \hbox (badness 1817) in paragraph at lines 18--18
 []\OT1/cmr/bx/n/10 PHYSICAL PROP-ERTY ANAL-Y-
  []
 
@@ -185,42 +185,46 @@ File: ./fig/chiimage_nh2_paper.eps Graphic file (type eps)
 File: ./fig/chiimage_tkin_paper.eps Graphic file (type eps)
 
 <./fig/chiimage_tkin_paper.eps>
-Overfull \hbox (24.73415pt too wide) in paragraph at lines 40--53
+Overfull \hbox (24.73415pt too wide) in paragraph at lines 30--43
  [][] 
  []
 
 
-Overfull \hbox (24.73415pt too wide) in paragraph at lines 40--53
+Overfull \hbox (24.73415pt too wide) in paragraph at lines 30--43
  [] 
  []
 
 
-Overfull \hbox (24.73415pt too wide) in paragraph at lines 40--53
+Overfull \hbox (24.73415pt too wide) in paragraph at lines 30--43
  [] 
  []
 
 
-LaTeX Warning: Float too large for page by 94.96292pt on input line 54.
+LaTeX Warning: Float too large for page by 94.96292pt on input line 44.
 
+[4]
+Plotone included the file ./fig/rotationT58.eps
+File: ./fig/rotationT58.eps Graphic file (type eps)
+<./fig/rotationT58.eps>
 File: ./fig/tv_paper.eps Graphic file (type eps)
-<./fig/tv_paper.eps>
+ <./fig/tv_paper.eps>
 File: ./fig/Nv_paper.eps Graphic file (type eps)
  <./fig/Nv_paper.eps>
-Overfull \hbox (24.73415pt too wide) in paragraph at lines 65--72
+Overfull \hbox (24.73415pt too wide) in paragraph at lines 67--74
  [][] 
  []
 
 
-Overfull \hbox (24.73415pt too wide) in paragraph at lines 65--72
+Overfull \hbox (24.73415pt too wide) in paragraph at lines 67--74
  [] 
  []
 
-[4] [5]) (./discussion.tex [6]) (./summary.tex) [7] [8] (./LVG_G240.aux) ) 
+) (./discussion.tex [5] [6]) (./summary.tex) [7] [8] (./LVG_G240.aux) ) 
 Here is how much of TeX's memory you used:
- 2155 strings out of 493706
- 27301 string characters out of 6145769
- 88307 words of memory out of 5000000
- 5479 multiletter control sequences out of 15000+600000
+ 2158 strings out of 493706
+ 27343 string characters out of 6145769
+ 87315 words of memory out of 5000000
+ 5481 multiletter control sequences out of 15000+600000
  11477 words of font info for 47 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  32i,5n,28p,3016b,328s stack positions out of 5000i,500n,10000p,200000b,80000s
