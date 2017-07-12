@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.1.27)  12 JAN 2017 22:14
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.1.27)  12 JUL 2017 09:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -162,10 +162,14 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 (./introduction.tex [1
 
 
-]) (./observation.tex) (./results.tex
-File: ./fig/ori_contour.eps Graphic file (type eps)
+]
+Underfull \hbox (badness 1297) in paragraph at lines 10--11
+\OT1/cmr/m/n/10 and in-ter-fer-o-met-ric ob-ser-va-tions in CO emis-
+ []
 
-<./fig/ori_contour.eps>
+) (./observation.tex) (./results.tex
+File: ./fig/ori_contourall.eps Graphic file (type eps)
+ <./fig/ori_contourall.eps>
 Overfull \hbox (50.59428pt too wide) in paragraph at lines 5--6
 [][] 
  []
@@ -185,48 +189,48 @@ File: ./fig/chiimage_nh2_paper.eps Graphic file (type eps)
 File: ./fig/chiimage_tkin_paper.eps Graphic file (type eps)
 
 <./fig/chiimage_tkin_paper.eps>
-Overfull \hbox (24.73415pt too wide) in paragraph at lines 30--43
+Overfull \hbox (24.73415pt too wide) in paragraph at lines 28--41
  [][] 
  []
 
 
-Overfull \hbox (24.73415pt too wide) in paragraph at lines 30--43
+Overfull \hbox (24.73415pt too wide) in paragraph at lines 28--41
  [] 
  []
 
 
-Overfull \hbox (24.73415pt too wide) in paragraph at lines 30--43
+Overfull \hbox (24.73415pt too wide) in paragraph at lines 28--41
  [] 
  []
 
 
-LaTeX Warning: Float too large for page by 94.96292pt on input line 44.
+LaTeX Warning: Float too large for page by 93.01848pt on input line 42.
 
 [4]
-Plotone included the file ./fig/rotationT58.eps
-File: ./fig/rotationT58.eps Graphic file (type eps)
-<./fig/rotationT58.eps>
+Plotone included the file ./fig/rotationT82.eps
+File: ./fig/rotationT82.eps Graphic file (type eps)
+<./fig/rotationT82.eps>
 File: ./fig/tv_paper.eps Graphic file (type eps)
  <./fig/tv_paper.eps>
 File: ./fig/Nv_paper.eps Graphic file (type eps)
  <./fig/Nv_paper.eps>
-Overfull \hbox (24.73415pt too wide) in paragraph at lines 67--74
+Overfull \hbox (24.73415pt too wide) in paragraph at lines 65--72
  [][] 
  []
 
 
-Overfull \hbox (24.73415pt too wide) in paragraph at lines 67--74
+Overfull \hbox (24.73415pt too wide) in paragraph at lines 65--72
  [] 
  []
 
-) (./discussion.tex [5] [6]) (./summary.tex) [7] [8] (./LVG_G240.aux) ) 
+[5]) (./discussion.tex [6]) (./summary.tex) [7] [8] (./LVG_G240.aux) ) 
 Here is how much of TeX's memory you used:
- 2158 strings out of 493706
- 27343 string characters out of 6145769
- 87315 words of memory out of 5000000
- 5481 multiletter control sequences out of 15000+600000
+ 2155 strings out of 493706
+ 27268 string characters out of 6145769
+ 92575 words of memory out of 5000000
+ 5478 multiletter control sequences out of 15000+600000
  11477 words of font info for 47 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 32i,5n,28p,3016b,328s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 32i,5n,28p,1865b,328s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on LVG_G240.pdf (8 pages).
