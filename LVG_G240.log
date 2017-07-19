@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.1.27)  16 JUL 2017 20:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.1.27)  19 JUL 2017 10:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -525,7 +525,7 @@ Package epstopdf Info: Source file: <./fig/ratio.eps>
 to.pdf ./fig/ratio.eps>
 (epstopdf)             \includegraphics on input line 14.
 Package epstopdf Info: Output file is already uptodate.
- <./fig/ratio-eps-converted-to.pdf, id=145, 462.72874pt x 346.29375pt>
+ <./fig/ratio-eps-converted-to.pdf, id=141, 462.72874pt x 346.29375pt>
 File: ./fig/ratio-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./fig/ratio-eps-converted-to.pdf>
@@ -534,6 +534,65 @@ Package pdftex.def Info: ./fig/ratio-eps-converted-to.pdf used on input line 14
 (pdftex.def)             Requested size: 205.92802pt x 154.11343pt.
  [3 <./fig/ori_contourall-eps-converted-to.pdf> <./fig/ratio-eps-converted-to.p
 df>]
+Package epstopdf Info: Source file: <./fig/rotationT82.eps>
+(epstopdf)                    date: 2017-07-03 10:26:16
+(epstopdf)                    size: 18666 bytes
+(epstopdf)             Output file: <./fig/rotationT82-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-07-16 11:26:07
+(epstopdf)                    size: 10815 bytes
+(epstopdf)             Command: <repstopdf --outfile=./fig/rotationT82-eps-conv
+erted-to.pdf ./fig/rotationT82.eps>
+(epstopdf)             \includegraphics on input line 32.
+Package epstopdf Info: Output file is already uptodate.
+
+<./fig/rotationT82-eps-converted-to.pdf, id=249, 462.72874pt x 346.29375pt>
+File: ./fig/rotationT82-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./fig/rotationT82-eps-converted-to.pdf>
+Package pdftex.def Info: ./fig/rotationT82-eps-converted-to.pdf used on input l
+ine 32.
+(pdftex.def)             Requested size: 205.92802pt x 154.11343pt.
+Package epstopdf Info: Source file: <./fig/tv_paper.eps>
+(epstopdf)                    date: 2017-07-04 16:48:04
+(epstopdf)                    size: 37958 bytes
+(epstopdf)             Output file: <./fig/tv_paper-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-07-16 11:26:08
+(epstopdf)                    size: 18528 bytes
+(epstopdf)             Command: <repstopdf --outfile=./fig/tv_paper-eps-convert
+ed-to.pdf ./fig/tv_paper.eps>
+(epstopdf)             \includegraphics on input line 39.
+Package epstopdf Info: Output file is already uptodate.
+
+<./fig/tv_paper-eps-converted-to.pdf, id=250, 462.72874pt x 346.29375pt>
+File: ./fig/tv_paper-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./fig/tv_paper-eps-converted-to.pdf>
+Package pdftex.def Info: ./fig/tv_paper-eps-converted-to.pdf used on input line
+ 39.
+(pdftex.def)             Requested size: 256.55872pt x 192.00507pt.
+Package epstopdf Info: Source file: <./fig/Nv_paper.eps>
+(epstopdf)                    date: 2017-07-04 16:48:04
+(epstopdf)                    size: 42205 bytes
+(epstopdf)             Output file: <./fig/Nv_paper-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-07-16 11:26:08
+(epstopdf)                    size: 21220 bytes
+(epstopdf)             Command: <repstopdf --outfile=./fig/Nv_paper-eps-convert
+ed-to.pdf ./fig/Nv_paper.eps>
+(epstopdf)             \includegraphics on input line 39.
+Package epstopdf Info: Output file is already uptodate.
+
+<./fig/Nv_paper-eps-converted-to.pdf, id=251, 462.72874pt x 346.29375pt>
+File: ./fig/Nv_paper-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./fig/Nv_paper-eps-converted-to.pdf>
+Package pdftex.def Info: ./fig/Nv_paper-eps-converted-to.pdf used on input line
+ 39.
+(pdftex.def)             Requested size: 256.55872pt x 192.00507pt.
+
+Overfull \hbox (4.11108pt too wide) detected at line 39
+ []   []  
+ []
+
 Package epstopdf Info: Source file: <./fig/chiimage_nco_paper.eps>
 (epstopdf)                    date: 2017-07-03 10:22:39
 (epstopdf)                    size: 154143 bytes
@@ -543,21 +602,16 @@ pdf>
 (epstopdf)                    size: 36564 bytes
 (epstopdf)             Command: <repstopdf --outfile=./fig/chiimage_nco_paper-e
 ps-converted-to.pdf ./fig/chiimage_nco_paper.eps>
-(epstopdf)             \includegraphics on input line 24.
+(epstopdf)             \includegraphics on input line 45.
 Package epstopdf Info: Output file is already uptodate.
 
-<./fig/chiimage_nco_paper-eps-converted-to.pdf, id=249, 462.72874pt x 346.29375
+<./fig/chiimage_nco_paper-eps-converted-to.pdf, id=252, 462.72874pt x 346.29375
 pt>
 File: ./fig/chiimage_nco_paper-eps-converted-to.pdf Graphic file (type pdf)
  <use ./fig/chiimage_nco_paper-eps-converted-to.pdf>
 Package pdftex.def Info: ./fig/chiimage_nco_paper-eps-converted-to.pdf used on 
-input line 24.
+input line 45.
 (pdftex.def)             Requested size: 256.55872pt x 192.00507pt.
-
-Overfull \hbox (16.34773pt too wide) detected at line 24
- []  
- []
-
 Package epstopdf Info: Source file: <./fig/chiimage_nh2_paper.eps>
 (epstopdf)                    date: 2017-07-03 10:30:18
 (epstopdf)                    size: 171289 bytes
@@ -567,19 +621,19 @@ pdf>
 (epstopdf)                    size: 38768 bytes
 (epstopdf)             Command: <repstopdf --outfile=./fig/chiimage_nh2_paper-e
 ps-converted-to.pdf ./fig/chiimage_nh2_paper.eps>
-(epstopdf)             \includegraphics on input line 26.
+(epstopdf)             \includegraphics on input line 45.
 Package epstopdf Info: Output file is already uptodate.
 
-<./fig/chiimage_nh2_paper-eps-converted-to.pdf, id=250, 462.72874pt x 346.29375
+<./fig/chiimage_nh2_paper-eps-converted-to.pdf, id=253, 462.72874pt x 346.29375
 pt>
 File: ./fig/chiimage_nh2_paper-eps-converted-to.pdf Graphic file (type pdf)
  <use ./fig/chiimage_nh2_paper-eps-converted-to.pdf>
 Package pdftex.def Info: ./fig/chiimage_nh2_paper-eps-converted-to.pdf used on 
-input line 26.
+input line 45.
 (pdftex.def)             Requested size: 256.55872pt x 192.00507pt.
 
-Overfull \hbox (16.34773pt too wide) detected at line 26
- []  
+Overfull \hbox (2.05554pt too wide) detected at line 45
+ []   [] 
  []
 
 Package epstopdf Info: Source file: <./fig/chiimage_tkin_paper.eps>
@@ -591,96 +645,21 @@ Package epstopdf Info: Source file: <./fig/chiimage_tkin_paper.eps>
 (epstopdf)                    size: 42845 bytes
 (epstopdf)             Command: <repstopdf --outfile=./fig/chiimage_tkin_paper-
 eps-converted-to.pdf ./fig/chiimage_tkin_paper.eps>
-(epstopdf)             \includegraphics on input line 27.
+(epstopdf)             \includegraphics on input line 46.
 Package epstopdf Info: Output file is already uptodate.
 
-<./fig/chiimage_tkin_paper-eps-converted-to.pdf, id=251, 462.72874pt x 346.2937
+<./fig/chiimage_tkin_paper-eps-converted-to.pdf, id=254, 462.72874pt x 346.2937
 5pt>
 File: ./fig/chiimage_tkin_paper-eps-converted-to.pdf Graphic file (type pdf)
  <use ./fig/chiimage_tkin_paper-eps-converted-to.pdf>
 Package pdftex.def Info: ./fig/chiimage_tkin_paper-eps-converted-to.pdf used on
- input line 27.
+ input line 46.
 (pdftex.def)             Requested size: 256.55872pt x 192.00507pt.
-
-Overfull \hbox (14.29219pt too wide) detected at line 27
- [] 
- []
-
-
-LaTeX Warning: Float too large for page by 65.6963pt on input line 29.
-
-Package epstopdf Info: Source file: <./fig/rotationT82.eps>
-(epstopdf)                    date: 2017-07-03 10:26:16
-(epstopdf)                    size: 18666 bytes
-(epstopdf)             Output file: <./fig/rotationT82-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-07-16 11:26:07
-(epstopdf)                    size: 10815 bytes
-(epstopdf)             Command: <repstopdf --outfile=./fig/rotationT82-eps-conv
-erted-to.pdf ./fig/rotationT82.eps>
-(epstopdf)             \includegraphics on input line 41.
-Package epstopdf Info: Output file is already uptodate.
-<./fig/rotationT82-eps-converted-to.pdf, id=256, 462.72874pt x 346.29375pt>
-File: ./fig/rotationT82-eps-converted-to.pdf Graphic file (type pdf)
-
-<use ./fig/rotationT82-eps-converted-to.pdf>
-Package pdftex.def Info: ./fig/rotationT82-eps-converted-to.pdf used on input l
-ine 41.
-(pdftex.def)             Requested size: 205.92802pt x 154.11343pt.
-Package epstopdf Info: Source file: <./fig/tv_paper.eps>
-(epstopdf)                    date: 2017-07-04 16:48:04
-(epstopdf)                    size: 37958 bytes
-(epstopdf)             Output file: <./fig/tv_paper-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-07-16 11:26:08
-(epstopdf)                    size: 18528 bytes
-(epstopdf)             Command: <repstopdf --outfile=./fig/tv_paper-eps-convert
-ed-to.pdf ./fig/tv_paper.eps>
-(epstopdf)             \includegraphics on input line 48.
-Package epstopdf Info: Output file is already uptodate.
-
-<./fig/tv_paper-eps-converted-to.pdf, id=257, 462.72874pt x 346.29375pt>
-File: ./fig/tv_paper-eps-converted-to.pdf Graphic file (type pdf)
-
-<use ./fig/tv_paper-eps-converted-to.pdf>
-Package pdftex.def Info: ./fig/tv_paper-eps-converted-to.pdf used on input line
- 48.
-(pdftex.def)             Requested size: 256.55872pt x 192.00507pt.
-Package epstopdf Info: Source file: <./fig/Nv_paper.eps>
-(epstopdf)                    date: 2017-07-04 16:48:04
-(epstopdf)                    size: 42205 bytes
-(epstopdf)             Output file: <./fig/Nv_paper-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-07-16 11:26:08
-(epstopdf)                    size: 21220 bytes
-(epstopdf)             Command: <repstopdf --outfile=./fig/Nv_paper-eps-convert
-ed-to.pdf ./fig/Nv_paper.eps>
-(epstopdf)             \includegraphics on input line 48.
-Package epstopdf Info: Output file is already uptodate.
-
-<./fig/Nv_paper-eps-converted-to.pdf, id=258, 462.72874pt x 346.29375pt>
-File: ./fig/Nv_paper-eps-converted-to.pdf Graphic file (type pdf)
-
-<use ./fig/Nv_paper-eps-converted-to.pdf>
-Package pdftex.def Info: ./fig/Nv_paper-eps-converted-to.pdf used on input line
- 48.
-(pdftex.def)             Requested size: 256.55872pt x 192.00507pt.
-
-Overfull \hbox (4.11108pt too wide) detected at line 48
- []   []  
- []
-
-[4 <./fig/chiimage_nco_paper-eps-converted-to.pdf> <./fig/chiimage_nh2_paper-ep
-s-converted-to.pdf> <./fig/chiimage_tkin_paper-eps-converted-to.pdf>]
-
-LaTeX Warning: A float is stuck (cannot be placed) on input line 54.
-
-
-LaTeX Warning: A float is stuck (cannot be placed) on input line 54.
-
-
-Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
-
-) (./discussion.tex [5 <./fig/rotationT82-eps-converted-to.pdf>])
-(./summary.tex) [6 <./fig/tv_paper-eps-converted-to.pdf> <./fig/Nv_paper-eps-co
-nverted-to.pdf>] [7]
+) (./discussion.tex
+[4 <./fig/rotationT82-eps-converted-to.pdf>] [5 <./fig/tv_paper-eps-converted-t
+o.pdf> <./fig/Nv_paper-eps-converted-to.pdf>]) (./summary.tex) [6 <./fig/chiima
+ge_nco_paper-eps-converted-to.pdf> <./fig/chiimage_nh2_paper-eps-converted-to.p
+df> <./fig/chiimage_tkin_paper-eps-converted-to.pdf>] [7]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 92.
  (./LVG_G240.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 92.
@@ -688,12 +667,12 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 92.
  ) 
 Here is how much of TeX's memory you used:
  8922 strings out of 493089
- 126912 string characters out of 6134842
- 273535 words of memory out of 5000000
+ 126914 string characters out of 6134842
+ 279905 words of memory out of 5000000
  12228 multiletter control sequences out of 15000+600000
  13741 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,8n,37p,1753b,501s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,8n,37p,1877b,342s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb>
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></
 usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></
@@ -712,10 +691,10 @@ xmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2015/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2015/texmf-
 dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2015/texmf-d
 ist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on LVG_G240.pdf (7 pages, 452845 bytes).
+Output written on LVG_G240.pdf (7 pages, 452718 bytes).
 PDF statistics:
- 655 PDF objects out of 1000 (max. 8388607)
- 339 compressed objects within 4 object streams
+ 649 PDF objects out of 1000 (max. 8388607)
+ 335 compressed objects within 4 object streams
  67 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
