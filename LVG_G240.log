@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.1.27)  20 OCT 2017 16:48
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.1.27)  20 NOV 2017 17:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -474,16 +474,15 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 
 )
-[1]) (./observation.tex) (./results.tex
+[1] [2]) (./observation.tex) (./results.tex
 File: ./fig/ori_contourall.eps Graphic file (type eps)
  <./fig/ori_contourall.eps>
 Overfull \hbox (7.23184pt too wide) in paragraph at lines 5--6
 [][] 
  []
 
-[2]
 File: ./fig/ratio.eps Graphic file (type eps)
- <./fig/ratio.eps> [3]
+<./fig/ratio.eps>
 File: ./fig/rotationT82.eps Graphic file (type eps)
  <./fig/rotationT82.eps>
 File: ./fig/tv_paper.eps Graphic file (type eps)
@@ -504,20 +503,20 @@ Overfull \hbox (2.05554pt too wide) detected at line 45
  []
 
 File: ./fig/chiimage_tkin_paper.eps Graphic file (type eps)
-<./fig/chiimage_tkin_paper.eps>) (./discussion.tex [4] [5]) (./summary.tex
-[6]) [7]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 92.
+<./fig/chiimage_tkin_paper.eps> [3]) (./discussion.tex [4] [5] [6])
+(./summary.tex) [7] [8]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 98.
  (./LVG_G240.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 92.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 92.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 98.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 98.
  ) 
 Here is how much of TeX's memory you used:
- 11819 strings out of 493706
- 161401 string characters out of 6145769
- 295368 words of memory out of 5000000
- 15061 multiletter control sequences out of 15000+600000
+ 11841 strings out of 493706
+ 162025 string characters out of 6145769
+ 282275 words of memory out of 5000000
+ 15083 multiletter control sequences out of 15000+600000
  14101 words of font info for 56 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 36i,7n,37p,1883b,340s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,7n,37p,2136b,593s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LVG_G240.pdf (7 pages).
+Output written on LVG_G240.pdf (8 pages).
