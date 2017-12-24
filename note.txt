@@ -19,3 +19,9 @@ dec1 = -24.116667
 dec2 = -24.141667
 
 co32:dec1 -24.115
+
+beam efficiency
+
+beam: co21,; co32,19.16";co65,9.49;co76,8.12"
+
+rms: 19".
