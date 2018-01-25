@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.1.27)  22 JAN 2018 21:20
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.1.27)  25 JAN 2018 08:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -496,54 +496,47 @@ Underfull \hbox (badness 10000) detected at line 28
 $\OML/cmm/m/it/9 d$
  []
 
-) (./results.tex
-File: ./fig/ori_contourall.eps Graphic file (type eps)
- <./fig/ori_contourall.eps>
-Overfull \hbox (50.58325pt too wide) in paragraph at lines 5--6
-[][] 
- []
+) (./results.tex [2]
 
-[2]
-File: ./fig/ratio.eps Graphic file (type eps)
- <./fig/ratio.eps> [3]
-
-LaTeX Warning: A float is stuck (cannot be placed) on input line 24.
+LaTeX Warning: A float is stuck (cannot be placed) on input line 1.
 
 
-LaTeX Warning: A float is stuck (cannot be placed) on input line 24.
+LaTeX Warning: A float is stuck (cannot be placed) on input line 1.
 
 
 Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
 
+File: ./fig/ori_contourall.eps Graphic file (type eps)
+<./fig/ori_contourall.eps>
+Overfull \hbox (50.58325pt too wide) in paragraph at lines 5--6
+[][] 
+ []
+
+File: ./fig/ratio.eps Graphic file (type eps)
+<./fig/ratio.eps>
 File: ./fig/RD.eps Graphic file (type eps)
-<./fig/RD.eps>
+ <./fig/RD.eps>
 File: ./fig/chiimage_nco_paper.eps Graphic file (type eps)
  <./fig/chiimage_nco_paper.eps>
 File: ./fig/chiimage_nh2_paper.eps Graphic file (type eps)
- <./fig/chiimage_nh2_paper.eps>
+
+<./fig/chiimage_nh2_paper.eps>
 Overfull \hbox (2.05554pt too wide) detected at line 43
  []   [] 
  []
 
 File: ./fig/chiimage_tkin_paper.eps Graphic file (type eps)
 <./fig/chiimage_tkin_paper.eps>
-File: ./fig/chiimage_nh2_low_paper.eps Graphic file (type eps)
- <./fig/chiimage_nh2_low_paper.eps>
-Overfull \hbox (2.05554pt too wide) detected at line 45
- []   [] 
- []
-
-
-Overfull \hbox (2.26653pt too wide) in paragraph at lines 49--50
+Overfull \hbox (2.26653pt too wide) in paragraph at lines 49--51
 []\OT1/cmr/m/n/10 Secondly, the non-LTE ra-dia-tive trans-fer code RADEX
  []
 
-[4]
+[3] [4]
 File: ./fig/tv_paper.eps Graphic file (type eps)
  <./fig/tv_paper.eps>
 File: ./fig/Nv_paper.eps Graphic file (type eps)
  <./fig/Nv_paper.eps>
-Overfull \hbox (4.11108pt too wide) detected at line 56
+Overfull \hbox (4.11108pt too wide) detected at line 57
  []   []  
  []
 
@@ -561,12 +554,12 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 107.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 107.
  ) 
 Here is how much of TeX's memory you used:
- 11877 strings out of 493706
- 162337 string characters out of 6145769
- 292942 words of memory out of 5000000
- 15118 multiletter control sequences out of 15000+600000
+ 11875 strings out of 493706
+ 162282 string characters out of 6145769
+ 289297 words of memory out of 5000000
+ 15117 multiletter control sequences out of 15000+600000
  14446 words of font info for 57 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 36i,15n,37p,2562b,527s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,15n,37p,2579b,512s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on LVG_G240.pdf (9 pages).
