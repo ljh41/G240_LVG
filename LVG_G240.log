@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.1.27)  1 APR 2018 10:33
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.1.27)  4 APR 2018 21:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -498,33 +498,37 @@ Underfull \hbox (badness 10000) detected at line 31
 $\OML/cmm/m/it/9 d$
  []
 
-) (./results.tex [2]
+) (./results.tex
 File: ./fig/ori_contourall.eps Graphic file (type eps)
  <./fig/ori_contourall.eps>
 Overfull \hbox (50.58325pt too wide) in paragraph at lines 5--6
 [][] 
  []
 
+[2]
 File: ./fig/ratio.eps Graphic file (type eps)
-<./fig/ratio.eps>
+ <./fig/ratio.eps> [3]
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 24.
+
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 24.
+
+
+Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
+
 File: ./fig/RD.eps Graphic file (type eps)
- <./fig/RD.eps>
+<./fig/RD.eps>
 File: ./fig/chiimage_nco_paper.eps Graphic file (type eps)
  <./fig/chiimage_nco_paper.eps>
 File: ./fig/chiimage_nh2_paper.eps Graphic file (type eps)
-
-<./fig/chiimage_nh2_paper.eps>
+ <./fig/chiimage_nh2_paper.eps>
 Overfull \hbox (2.05554pt too wide) detected at line 42
  []   [] 
  []
 
 File: ./fig/chiimage_tkin_paper.eps Graphic file (type eps)
-<./fig/chiimage_tkin_paper.eps>
-Overfull \hbox (2.26653pt too wide) in paragraph at lines 48--50
-[]\OT1/cmr/m/n/10 Secondly, the non-LTE ra-dia-tive trans-fer code RADEX
- []
-
-[3] [4]
+<./fig/chiimage_tkin_paper.eps> [4]
 File: ./fig/tv_paper.eps Graphic file (type eps)
  <./fig/tv_paper.eps>
 File: ./fig/Nv_paper.eps Graphic file (type eps)
@@ -533,26 +537,26 @@ Overfull \hbox (4.11108pt too wide) detected at line 56
  []   []  
  []
 
-[5]) (./discussion.tex [6]) (./summary.tex) [7] [8]
+) (./discussion.tex [5] [6]) (./summary.tex) [7] [8]
 File: ./fig/SED.eps Graphic file (type eps)
  <./fig/SED.eps>
-Overfull \hbox (7.23184pt too wide) in paragraph at lines 122--123
+Overfull \hbox (7.23184pt too wide) in paragraph at lines 123--124
 [][] 
  []
 
 [9]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 127.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 128.
  (./LVG_G240.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 127.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 127.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 128.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 128.
  ) 
 Here is how much of TeX's memory you used:
- 11891 strings out of 493706
- 162714 string characters out of 6145769
- 286989 words of memory out of 5000000
- 15133 multiletter control sequences out of 15000+600000
- 14446 words of font info for 57 fonts, out of 8000000 for 9000
+ 11888 strings out of 493706
+ 162681 string characters out of 6145769
+ 294470 words of memory out of 5000000
+ 15131 multiletter control sequences out of 15000+600000
+ 14101 words of font info for 56 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 36i,15n,37p,2419b,527s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,15n,37p,3434b,527s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on LVG_G240.pdf (9 pages).
