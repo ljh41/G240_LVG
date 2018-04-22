@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.1.27)  5 APR 2018 17:19
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.1.27)  22 APR 2018 19:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -537,26 +537,36 @@ Overfull \hbox (4.11108pt too wide) detected at line 56
  []   []  
  []
 
-) (./discussion.tex [5] [6]) (./summary.tex) [7] [8]
+[5]) (./discussion.tex [6]
+Underfull \hbox (badness 1418) in paragraph at lines 34--35
+\OT1/cmr/m/n/10 and mor-phol-ogy is sim-i-lar to low-mass wide-angle
+ []
+
+
+Underfull \hbox (badness 1616) in paragraph at lines 34--35
+\OT1/cmr/m/n/10 out-flows. How-ever, ob-ser-va-tions to-ward low-mass
+ []
+
+) (./summary.tex [7]) [8] [9]
 File: ./fig/SED.eps Graphic file (type eps)
  <./fig/SED.eps>
-Overfull \hbox (7.23184pt too wide) in paragraph at lines 123--124
+Overfull \hbox (7.23184pt too wide) in paragraph at lines 130--131
 [][] 
  []
 
-[9]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 128.
+[10]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 135.
  (./LVG_G240.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 128.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 128.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 135.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 135.
  ) 
 Here is how much of TeX's memory you used:
- 11887 strings out of 493706
- 162673 string characters out of 6145769
- 294474 words of memory out of 5000000
- 15130 multiletter control sequences out of 15000+600000
+ 11916 strings out of 493706
+ 163431 string characters out of 6145769
+ 291827 words of memory out of 5000000
+ 15159 multiletter control sequences out of 15000+600000
  14101 words of font info for 56 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 36i,15n,37p,3440b,527s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,15n,37p,3617b,584s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LVG_G240.pdf (9 pages).
+Output written on LVG_G240.pdf (10 pages).

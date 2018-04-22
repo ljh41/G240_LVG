@@ -12,3 +12,13 @@ tel vel range
 刻度，RA DEC axis
 an rms 
 observation里，已发表数据放后面
+
+figure: T-V. trend, uncer. N-V, with gas
+discussion: T-V investigate. mechanism 加引用。
+Herschel: mid-freq low-resolution high-freq low-v?
+望远镜：Nanten, 
+low-J 
+
+T-V: hatchel
+
+either jet-like or wide-angle, not like low-mass
