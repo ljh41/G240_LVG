@@ -1,7 +1,7 @@
 %!PS-Adobe-3.0 EPSF-3.0
 %%Title: ./fig/ratio.eps
-%%Creator: matplotlib version 2.1.1, http://matplotlib.org/
-%%CreationDate: Fri Jan 19 09:41:40 2018
+%%Creator: matplotlib version 2.1.2, http://matplotlib.org/
+%%CreationDate: Tue May  1 19:24:09 2018
 %%Orientation: portrait
 %%BoundingBox: 75 223 536 568
 %%EndComments
@@ -98,7 +98,7 @@ FontName currentdict end definefont pop
 /FontMatrix[.001 0 0 .001 0 0]def
 /FontBBox[-1021 -463 1793 1232]def
 /FontType 3 def
-/Encoding [ /space /parenleft /parenright /hyphen /period /slash /zero /one /two /three /four /five /six /seven /eight /L /a /e /f /i /k /l /m /n /o /r /s /t /u /w ] def
+/Encoding [ /space /parenleft /parenright /hyphen /period /slash /zero /one /two /three /four /five /six /seven /eight /L /a /e /f /i /k /l /m /n /o /r /s /t /u /w /minus ] def
 /FontInfo 10 dict dup begin
 /FamilyName (DejaVu Sans) def
 /FullName (DejaVu Sans) def
@@ -110,7 +110,7 @@ FontName currentdict end definefont pop
 /UnderlinePosition -130 def
 /UnderlineThickness 90 def
 end readonly def
-/CharStrings 31 dict dup begin
+/CharStrings 32 dict dup begin
 /.notdef 0 def
 /space{318 0 0 0 0 0 _sc
 }_d
@@ -663,6 +663,13 @@ _cl}_d
 291 0 _l
 185 0 _l
 42 547 _l
+_cl}_d
+/minus{838 0 106 272 732 355 _sc
+106 355 _m
+732 355 _l
+732 272 _l
+106 272 _l
+106 355 _l
 _cl}_d
 end readonly def
 
@@ -1415,57 +1422,72 @@ grestore
 408.024 38.016 o
 grestore
 gsave
-203.660000 9.422250 translate
+196.660000 8.422250 translate
 0.000000 rotate
 /DejaVuSans-Oblique findfont
 10.0 scalefont
 setfont
-0.000000 0.406250 moveto
+0.000000 0.064063 moveto
 /V glyphshow
 
 /DejaVuSans findfont
 7.0 scalefont
 setfont
-6.840820 -1.234375 moveto
+6.840820 -1.576562 moveto
 /o glyphshow
 
-11.123535 -1.234375 moveto
+11.123535 -1.576562 moveto
 /u glyphshow
 
-15.560059 -1.234375 moveto
+15.560059 -1.576562 moveto
 /t glyphshow
 
-18.304688 -1.234375 moveto
+18.304688 -1.576562 moveto
 /f glyphshow
 
-20.769043 -1.234375 moveto
+20.769043 -1.576562 moveto
 /l glyphshow
 
-22.713867 -1.234375 moveto
+22.713867 -1.576562 moveto
 /o glyphshow
 
-26.996582 -1.234375 moveto
+26.996582 -1.576562 moveto
 /w glyphshow
 
 /DejaVuSans findfont
 10.0 scalefont
 setfont
-32.995117 0.406250 moveto
+32.995117 0.064063 moveto
+/space glyphshow
+
+36.173828 0.064063 moveto
 /parenleft glyphshow
 
-36.896484 0.406250 moveto
+40.075195 0.064063 moveto
 /k glyphshow
 
-42.687500 0.406250 moveto
+45.866211 0.064063 moveto
 /m glyphshow
 
-52.428711 0.406250 moveto
-/slash glyphshow
+55.607422 0.064063 moveto
+/space glyphshow
 
-55.797852 0.406250 moveto
+58.786133 0.064063 moveto
 /s glyphshow
 
-61.007812 0.406250 moveto
+/DejaVuSans findfont
+7.0 scalefont
+setfont
+64.091797 3.892188 moveto
+/minus glyphshow
+
+69.957031 3.892188 moveto
+/one glyphshow
+
+/DejaVuSans findfont
+10.0 scalefont
+setfont
+74.684082 0.064063 moveto
 /parenright glyphshow
 
 
@@ -2236,7 +2258,7 @@ grestore
 57.6 296.301 o
 grestore
 gsave
-28.615625 147.517312 translate
+28.615625 144.907937 translate
 90.000000 rotate
 0.000000 0.000000 m /L glyphshow
 5.571289 0.000000 m /i glyphshow
@@ -2248,6 +2270,7 @@ gsave
 34.257812 0.000000 m /t glyphshow
 38.178711 0.000000 m /i glyphshow
 40.957031 0.000000 m /o glyphshow
+47.075195 0.000000 m /s glyphshow
 grestore
 1.000 setlinewidth
 0 setlinejoin
@@ -2319,7 +2342,7 @@ grestore
 280.8 162.398 o
 316.512 207.511 o
 352.224 188.573 o
-387.936 167.142 o
+387.936 167.103 o
 grestore
 0.000 0.000 1.000 setrgbcolor
 gsave
@@ -2566,33 +2589,39 @@ gsave
 0.000000 rotate
 0.000000 0.000000 m /six glyphshow
 6.362305 0.000000 m /hyphen glyphshow
-9.970703 0.000000 m /five glyphshow
-16.333008 0.000000 m /slash glyphshow
-19.702148 0.000000 m /two glyphshow
-26.064453 0.000000 m /hyphen glyphshow
-29.672852 0.000000 m /one glyphshow
+9.970703 0.000000 m /hyphen glyphshow
+13.579102 0.000000 m /five glyphshow
+19.941406 0.000000 m /slash glyphshow
+23.310547 0.000000 m /two glyphshow
+29.672852 0.000000 m /hyphen glyphshow
+33.281250 0.000000 m /hyphen glyphshow
+36.889648 0.000000 m /one glyphshow
 grestore
 gsave
 370.080000 253.253647 translate
 0.000000 rotate
 0.000000 0.000000 m /six glyphshow
 6.362305 0.000000 m /hyphen glyphshow
-9.970703 0.000000 m /five glyphshow
-16.333008 0.000000 m /slash glyphshow
-19.702148 0.000000 m /three glyphshow
-26.064453 0.000000 m /hyphen glyphshow
-29.672852 0.000000 m /two glyphshow
+9.970703 0.000000 m /hyphen glyphshow
+13.579102 0.000000 m /five glyphshow
+19.941406 0.000000 m /slash glyphshow
+23.310547 0.000000 m /three glyphshow
+29.672852 0.000000 m /hyphen glyphshow
+33.281250 0.000000 m /hyphen glyphshow
+36.889648 0.000000 m /two glyphshow
 grestore
 gsave
 370.080000 268.907294 translate
 0.000000 rotate
 0.000000 0.000000 m /seven glyphshow
 6.362305 0.000000 m /hyphen glyphshow
-9.970703 0.000000 m /six glyphshow
-16.333008 0.000000 m /slash glyphshow
-19.702148 0.000000 m /six glyphshow
-26.064453 0.000000 m /hyphen glyphshow
-29.672852 0.000000 m /five glyphshow
+9.970703 0.000000 m /hyphen glyphshow
+13.579102 0.000000 m /six glyphshow
+19.941406 0.000000 m /slash glyphshow
+23.310547 0.000000 m /six glyphshow
+29.672852 0.000000 m /hyphen glyphshow
+33.281250 0.000000 m /hyphen glyphshow
+36.889648 0.000000 m /five glyphshow
 grestore
 1.000 setlinewidth
 1 setlinejoin
@@ -2666,7 +2695,7 @@ grestore
 280.8 116.722 o
 316.512 142.007 o
 352.224 134.538 o
-387.936 146.087 o
+387.936 146.053 o
 grestore
 
 end
