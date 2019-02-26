@@ -1,0 +1,4 @@
+#! /bin/bash
+
+python rotdiag.py pointdishbgaussian
+python rotdiag.py pointdishrgaussian

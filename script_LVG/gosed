@@ -1,0 +1,4 @@
+#! /bin/bash
+
+python pltsed.py pointdishbgaussian 
+python pltsed.py pointdishrgaussian 

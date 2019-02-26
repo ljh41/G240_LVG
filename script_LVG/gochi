@@ -1,0 +1,7 @@
+#! /bin/bash
+
+python chinh2.py pointdishbgaussian 1 errrms
+python chinh2.py pointdishrgaussian 2 errrms
+
+
+

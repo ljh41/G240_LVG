@@ -1,0 +1,4 @@
+#! /bin/bash
+
+python caltau.py pointdishrgaussian
+python caltau.py pointdishbgaussian
